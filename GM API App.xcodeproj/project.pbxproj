@@ -17,6 +17,7 @@
 		243A59F725E73188006C1DED /* GM_API_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243A59F625E73188006C1DED /* GM_API_AppTests.swift */; };
 		243A5A0225E73188006C1DED /* GM_API_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243A5A0125E73188006C1DED /* GM_API_AppUITests.swift */; };
 		249734B625E9CC4D0071C1DC /* CommitViewr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249734B525E9CC4C0071C1DC /* CommitViewr.swift */; };
+		249734BB25E9CEA20071C1DC /* commitviewerclass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 249734BA25E9CEA20071C1DC /* commitviewerclass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		243A5A0125E73188006C1DED /* GM_API_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GM_API_AppUITests.swift; sourceTree = "<group>"; };
 		243A5A0325E73188006C1DED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		249734B525E9CC4C0071C1DC /* CommitViewr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommitViewr.swift; sourceTree = "<group>"; };
+		249734BA25E9CEA20071C1DC /* commitviewerclass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commitviewerclass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				243A59DE25E73186006C1DED /* SceneDelegate.swift */,
 				243A59E025E73186006C1DED /* ViewController.swift */,
 				249734B525E9CC4C0071C1DC /* CommitViewr.swift */,
+				249734BA25E9CEA20071C1DC /* commitviewerclass.swift */,
 				243A59E225E73186006C1DED /* Main.storyboard */,
 				243A59E825E73188006C1DED /* Assets.xcassets */,
 				243A59EA25E73188006C1DED /* LaunchScreen.storyboard */,
@@ -267,6 +270,7 @@
 				243A59E725E73186006C1DED /* GM_API_App.xcdatamodeld in Sources */,
 				243A59E125E73186006C1DED /* ViewController.swift in Sources */,
 				243A59DD25E73186006C1DED /* AppDelegate.swift in Sources */,
+				249734BB25E9CEA20071C1DC /* commitviewerclass.swift in Sources */,
 				243A59DF25E73186006C1DED /* SceneDelegate.swift in Sources */,
 				249734B625E9CC4D0071C1DC /* CommitViewr.swift in Sources */,
 			);

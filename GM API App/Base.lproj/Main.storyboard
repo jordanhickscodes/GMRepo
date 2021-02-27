@@ -58,10 +58,10 @@
             </objects>
             <point key="canvasLocation" x="1050.7246376811595" y="133.92857142857142"/>
         </scene>
-        <!--View Controller-->
+        <!--Commit Viewer-->
         <scene sceneID="zYo-Na-YLc">
             <objects>
-                <viewController id="HJK-CR-ybX" sceneMemberID="viewController">
+                <viewController id="HJK-CR-ybX" customClass="CommitViewer" customModule="GM_API_App" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="wso-MO-Cfd">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
